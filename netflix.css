@@ -84,7 +84,7 @@ img{
     width: 100%;
     height: 93vh;
     position: relative;
-    background: url('image/netflix-background.jpg') no-repeat center center/cover ;
+    background: url('https://assets.nflxext.com/ffe/siteui/vlv3/8f12b4f0-a894-4d5b-9c36-5ba391c63fbe/44355e66-dbf8-4dd8-ba6b-8e9e32ec6abd/IN-en-20230320-popsignuptwoweeks-perspective_alpha_website_large.jpg') no-repeat center center/cover ;
 }
 .showcase::after{
     content: '';
